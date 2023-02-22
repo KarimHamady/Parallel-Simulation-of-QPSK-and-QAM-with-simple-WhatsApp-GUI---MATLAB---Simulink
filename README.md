@@ -2,6 +2,11 @@
 ![image](https://user-images.githubusercontent.com/113800496/220714897-a9a77a46-7c39-4e37-b4d1-7925a411253e.png)
 ![image](https://user-images.githubusercontent.com/113800496/220714957-3384d068-6d1e-4079-b6fe-7b8a4299c83d.png)
 
+# Running the Application
+1. Clone the repository
+2. Run the MATLAB file (it will automatically link to GUI and Simulink)
+**Note that you may need to download some libraries for parallel simulation and maybe for the GUI**
+
 This project consists of 3 main parts:
 1. MATLAB code: finalProjectFunctionBased.m
 2. MATLAB GUI: app2.mlapp
